@@ -7,6 +7,7 @@ import Cursor from './components/ui/cursor/Cursor'
 import NavBar from './components/Navbar/NavBar'
 import Hero from './components/Hero/Hero'
 import WhoAmI from './components/Hero/WhoAmI'
+import Experience from './components/Experience/Experience'
 
 gsap.registerPlugin (ScrollSmoother,ScrollTrigger,SplitText)
 
@@ -35,6 +36,7 @@ const App = () => {
       <div id='smooth-content'>
         <Hero/>
         <WhoAmI/>
+        <Experience/>
 
       
     
