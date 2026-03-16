@@ -63,6 +63,7 @@ const Hero = () => {
         stRef.current= tl.scrollTrigger
 
         return()=> {
+          tl.scrollTrigger?.kill()
          
           tl.kill()
 
