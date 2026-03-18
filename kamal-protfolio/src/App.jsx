@@ -9,6 +9,7 @@ import Hero from './components/Hero/Hero'
 import WhoAmI from './components/Hero/WhoAmI'
 import Experience from './components/Experience/Experience'
 import TechStack from './components/TechStack/TechStack'
+import Projects from './components/Projects/Projects'
 
 gsap.registerPlugin (ScrollSmoother,ScrollTrigger,SplitText)
 
@@ -39,6 +40,8 @@ const App = () => {
         <WhoAmI/>
         <Experience/>
         <TechStack/>
+
+        <Projects/>
 
       
     
