@@ -155,23 +155,23 @@ const Certifications = () => {
                 <ul className="certification-list">
                     <li>Mern Stack Developer</li>
                     <li>JAVA SOFTWARE DEVELOPER</li>
-                    <li>Diploma certificate</li>
+                    <li>INDUSTRIAL TRAINING</li>
 
                 </ul>
 
                 <div className="fill"></div>
                 <div className="right">
                     <div className="slide center">
-                        <img src="/assets/images/certificates/UIBC.png" alt="" />
+                        <img src="/assets/images/certificates/Kamal-pandey-sheriyasnsh.png" alt="" />
                     </div>
 
                     <div className="slide center">
-                        <img src="/assets/images/certificates/sailpoint-ambassador.png" alt="" />
+                        <img src="/assets/images/certificates/Kamal-pandey-sheriyasnsh.png" alt="" />
                     </div>
 
 
                     <div className="slide center">
-                        <img src="/assets/images/certificates/aws-developer-associate.jpg" alt="hello" />
+                        <img src="/assets/images/certificates/Kamal-pandey-sheriyasnsh.png" alt="hello" />
                     </div>
                 </div>
             </div>

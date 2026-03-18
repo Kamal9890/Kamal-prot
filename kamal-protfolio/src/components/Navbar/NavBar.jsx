@@ -90,9 +90,9 @@ const NavBar = () => {
 
           <li>
             <a
-              href="/assets/files/cv.pdf"
+              href="/assets/files/Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
               className="download-button"
-              download="cv.pdf"
+              download="Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
             >
               RESUME
             </a>
@@ -121,9 +121,9 @@ const NavBar = () => {
         ))}
 
         <a
-          href="/assets/files/cv.pdf"
+          href="/assets/files/Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
           className="download-button"
-          download="cv.pdf"
+          download="Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
         >
           RESUME
         </a>

@@ -5,44 +5,44 @@ const PROJECTS = [
     {
         title: "MERN E-Commerce Platform",
         desc: "Built a full-stack e-commerce application with user authentication, product management, cart system, and secure checkout functionality.",
-        image: "/assets/images/common/chatbot-cover.png",
+        image: "/assets/images/common/sambad.png",
         tags: ["React", "Node.js", "Express", "MongoDB", "JWT", "Stripe"],
         links: [
-            { label: "Live Demo", href: "#", icon: "↗" },
-            { label: "Source Code", href: "#", icon: "💻" }
+            { label: "Live Demo", href: "https://sambaad-mart-gqe6.vercel.app/", icon: "↗" },
+            { label: "Source Code", href: "https://github.com/Kamal9890/Sambaad-Mart", icon: "💻" }
         ]
     },
 
     {
         title: "Tomoto Website",
         desc: "Developed a modern food delivery UI inspired by Zomato with responsive design, restaurant listings, filters, and smooth user experience.",
-        image: "/assets/images/common/chatbot-cover.png",
+        image: "/assets/images/common/tomoto.png",
         tags: ["React", "CSS", "API Integration", "Responsive Design"],
         links: [
-            { label: "Live Demo", href: "#", icon: "↗" },
-            { label: "Source Code", href: "#", icon: "💻" }
+            { label: "Live Demo", href: "https://foods-website-green.vercel.app/", icon: "↗" },
+            { label: "Source Code", href: "https://github.com/Kamal9890/tomoto-website", icon: "💻" }
         ]
     },
 
     {
         title: "YouTube Clone",
         desc: "Created a YouTube clone with video streaming, search functionality, category filters, and dynamic video rendering using APIs.",
-        image: "/assets/images/common/chatbot-cover.png",
+        image: "/assets/images/common/vidtube.png",
         tags: ["React", "YouTube API", "Axios", "Tailwind CSS"],
         links: [
-            { label: "Live Demo", href: "#", icon: "↗" },
-            { label: "Source Code", href: "#", icon: "💻" }
+            { label: "Live Demo", href: "https://youtube-clone-tau-lyart.vercel.app/", icon: "↗" },
+            { label: "Source Code", href: "https://github.com/Kamal9890/youtubeClone", icon: "💻" }
         ]
     },
 
     {
-        title: "Dynamic Agency Website",
+        title: "Digital Agency Website",
         desc: "Designed a high-end animated agency website with modern UI, smooth scroll animations, and interactive sections using GSAP.",
-        image: "/assets/images/common/chatbot-cover.png",
+        image: "/assets/images/common/digital-agency.png",
         tags: ["React", "GSAP", "ScrollTrigger", "SCSS", "UI/UX"],
         links: [
-            { label: "Live Demo", href: "#", icon: "↗" },
-            { label: "Source Code", href: "#", icon: "💻" }
+            { label: "Live Demo", href: "https://agency-io-woad.vercel.app/", icon: "↗" },
+            { label: "Source Code", href: "https://github.com/Kamal9890/agency.io", icon: "💻" }
         ]
     }
 ];

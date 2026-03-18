@@ -11,6 +11,7 @@ import Experience from './components/Experience/Experience'
 import TechStack from './components/TechStack/TechStack'
 import Projects from './components/Projects/Projects'
 import Certifications from './components/Certifications/Certifications'
+import Contact from './components/Contact/Contact'
 
 gsap.registerPlugin (ScrollSmoother,ScrollTrigger,SplitText)
 
@@ -44,6 +45,7 @@ const App = () => {
 
         <Projects/>
         <Certifications/>
+        <Contact/>
 
       
     

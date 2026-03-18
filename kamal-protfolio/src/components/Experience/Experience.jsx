@@ -9,27 +9,27 @@ gsap.registerPlugin(ScrollTrigger)
 const TIMELINE = [
   {
     date: "Jan 2025 - Jun 2025",
-    title: "Full Stack Developer (6 Months Training)",
-    org: "Sheriyansh Coding School",
-    desc: "Developed full-stack web applications using ReactJS, NodeJS, ExpressJS, and MongoDB."
+    title: "Full Stack Developer (Training Program)",
+    org: "Sheriyans Coding School",
+    desc: "Completed an intensive full-stack development training program, building scalable web applications using React.js, Node.js, Express.js, and MongoDB, with a strong focus on real-world project development."
   },
   {
     date: "Aug 2023 - Sep 2025",
     title: "M.Tech — Computer Science and Engineering",
     org: "Technocrats Institute of Technology, Bhopal",
-    desc: "Completed Master's degree in Computer Science with CGPA 7.82."
+    desc: "Pursued a Master’s degree in Computer Science, strengthening core concepts in software development and system design. Graduated with a CGPA of 7.82."
   },
   {
     date: "Sep 2020 - Jul 2023",
     title: "B.E — Computer Science and Engineering",
     org: "University Institute of Technology, Barkatullah University, Bhopal",
-    desc: "Completed Bachelor's degree in Computer Science with CGPA 8.12."
+    desc: "Built a strong foundation in programming, data structures, and web technologies. Graduated with a CGPA of 8.12."
   },
   {
     date: "Sep 2017 - Aug 2020",
     title: "Diploma — Computer Hardware and Maintenance",
     org: "Government Polytechnic College, Rewa",
-    desc: "Completed Diploma with CGPA 7.49."
+    desc: "Gained practical knowledge of computer hardware, networking, and system maintenance. Completed with a CGPA of 7.49."
   }
 ]
 

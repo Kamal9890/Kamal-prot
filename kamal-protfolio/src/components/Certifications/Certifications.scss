@@ -34,7 +34,7 @@
 
     .certification-description {
         margin: 0;
-        max-width: 75ch;
+        max-width: 95ch;
         color: rgba(255,255,255,0.6);
         font-size: 16px;
         line-height: 1.7;
@@ -84,6 +84,7 @@
 
     img {
         width: 100%;
+        object-fit:cover;
         border-radius: 5px;
     }
 }
