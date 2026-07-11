@@ -8,10 +8,10 @@ gsap.registerPlugin(ScrollTrigger)
 
 const TIMELINE = [
   {
-    date: "Jan 2025 - Jun 2025",
-    title: "Full Stack Developer (Training Program)",
-    org: "Sheriyans Coding School",
-    desc: "Completed an intensive full-stack development training program, building scalable web applications using React.js, Node.js, Express.js, and MongoDB, with a strong focus on real-world project development."
+    date: "may 2025 - Present",
+    title: "Fronetn Developer Intern ",
+    org: "Relu consultancy",
+    desc: "eveloped and maintained responsive web applications using ReactJS, TypeScript, Tailwind CSS, and GoHighLevel (GHL). Built reusable UI components, internal dashboards, reporting modules, and project management features while integrating REST APIs for seamless functionality. Optimized application performance, resolved production bugs, improved user experience, and collaborated with cross-functional teams using Git/GitHub in an Agile development environment."
   },
   {
     date: "Aug 2023 - Sep 2025",
