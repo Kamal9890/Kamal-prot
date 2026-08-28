@@ -90,9 +90,9 @@ const NavBar = () => {
 
           <li>
             <a
-              href="/assets/files/Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
+              href="/assets/files/Kamal_Pandey_Resume_Developer.pdf"
               className="download-button"
-              download="Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
+              download="Kamal_Pandey_Resume_Developer.pdf"
             >
               RESUME
             </a>
@@ -121,9 +121,9 @@ const NavBar = () => {
         ))}
 
         <a
-          href="/assets/files/Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
+          href="/assets/files/Kamal_Pandey_Resume_Developer.pdf"
           className="download-button"
-          download="Kamal_Pandey_Full_Stack_Developer_Resume.pdf"
+          download="Kamal_Pandey_Resume_Developer.pdf"
         >
           RESUME
         </a>
