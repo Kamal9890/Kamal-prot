@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger)
 
 const TIMELINE = [
   {
-    date: "may 2025 - Present",
+    date: "1st May 2025 - Present",
     title: "Frontend Developer Intern ",
     org: "Relu consultancy",
     desc: "eveloped and maintained responsive web applications using ReactJS, TypeScript, Tailwind CSS, and GoHighLevel (GHL). Built reusable UI components, internal dashboards, reporting modules, and project management features while integrating REST APIs for seamless functionality. Optimized application performance, resolved production bugs, improved user experience, and collaborated with cross-functional teams using Git/GitHub in an Agile development environment."
